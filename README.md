@@ -6,6 +6,6 @@
 ![](screenshots/csr_register.png)
 ![](screenshots/csr_update.png)
 
-## Credit `&copy;Impalink 2021`
+## Credit `Impalink 2021`🇨🇲 
 
-:fire
+    🔥 
